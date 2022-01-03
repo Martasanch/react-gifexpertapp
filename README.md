@@ -1,6 +1,6 @@
 # GifExpertApp
 
-Una aplicación hecha en React con Hooks para buscar y mostrar gifs animados siguiendo el curso de React de Udemy.
+Una aplicación hecha en React utilizando Hooks para buscar y mostrar gifs animados siguiendo el curso de React de Udemy de Fernando Herreda.
 
 ## Available Scripts
 
